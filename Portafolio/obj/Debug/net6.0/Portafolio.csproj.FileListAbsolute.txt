@@ -28,3 +28,4 @@ D:\Cursos\Curso c# ASP.Net\Projects\Portafolio\Portafolio\obj\Debug\net6.0\refin
 D:\Cursos\Curso c# ASP.Net\Projects\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.pdb
 D:\Cursos\Curso c# ASP.Net\Projects\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.genruntimeconfig.cache
 D:\Cursos\Curso c# ASP.Net\Projects\Portafolio\Portafolio\obj\Debug\net6.0\ref\Portafolio.dll
+D:\Cursos\Curso c# ASP.Net\Projects\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.sourcelink.json

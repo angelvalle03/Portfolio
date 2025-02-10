@@ -13,33 +13,17 @@ namespace Portafolio.Services
             return new List<Project>() {
             new Project
             {
-                Title= "Amazon",
-                Description = "E-Commerce realizado en ASP.NEt",
+                Title= "Servicios Navales del Caribe",
+                Description = "Sitio web corporativo usando HTML, CSS y JavaScript",
+                Link = "https://serviciosnavalesdelcaribe.com/",
+                ImageURL = "/Images/images.png"
+
+            },
+            new Project
+            {
+                Title= "Portafolio personal",
+                Description = "Portafolio hecho con ASP .Net y Blazor",
                 Link = "https://amazon.com",
-                ImageURL = "/Images/images.png"
-
-            },
-            new Project
-            {
-                Title= "New York Time",
-                Description = "News pagen using react",
-                Link = "https://amazon.com",
-                ImageURL = "/Images/images.png"
-
-            },
-            new Project
-            {
-                Title= "Google",
-                Description = "Implement adjustme for pages using .NET",
-                Link = "https://google.com",
-                ImageURL = "/Images/images.png"
-
-            },
-            new Project
-            {
-                Title= "Apple",
-                Description = "Creation of section for web page using react",
-                Link = "https://apple.com",
                 ImageURL = "/Images/images.png"
 
             }

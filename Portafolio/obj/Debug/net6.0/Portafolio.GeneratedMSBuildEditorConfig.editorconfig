@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Cursos\Curso c# ASP.Net\Projects\Portafolio\Portafolio
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Home/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+[D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Contact/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Home/Index.cshtml]
@@ -30,10 +30,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Home/Projects.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWN0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Home/Thanks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaGFua3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,24 +38,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfUHJlc2VudGF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Home/_ProjectsList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfUHJvamVjdHNMaXN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Home/_SectionProjects.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfU2VjdGlvblByb2plY3RzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Home/_Skills.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfU2tpbGxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Project/Project.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxQcm9qZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Project/_ProjectList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxfUHJvamVjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Resume/Resume.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lXFJlc3VtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Resume/_Education.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lXF9FZHVjYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Resume/_Experience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lXF9FeHBlcmllbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Resume/_Skills.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lXF9Ta2lsbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Cursos/Curso c\# ASP.Net/Projects/Portafolio/Portafolio/Views/Shared/Error.cshtml]

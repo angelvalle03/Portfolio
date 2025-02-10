@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\views\\project\\_projectlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\project\\_projectlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\views\\resume\\_experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\resume\\_experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\views\\resume\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\resume\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\views\\resume\\_skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\resume\\_skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\views\\resume\\_education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\resume\\_education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\views\\home\\_projectslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_projectslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\views\\project\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\project\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|d:\\cursos\\curso c# asp.net\\projects\\portafolio\\portafolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6643B097-CDA6-4D91-B3B0-54795DF65BEA}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +54,153 @@
       "DocumentGroups": [
         {
           "DockedHeight": 370,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAACGAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "_Skills.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Resume\\_Skills.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Resume\\_Skills.cshtml",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Resume\\_Skills.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Resume\\_Skills.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T04:30:57.102Z",
+              "WhenOpened": "2025-02-10T04:17:40.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ProjectsList.cshtml",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Home\\_ProjectsList.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_ProjectsList.cshtml",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Home\\_ProjectsList.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\_ProjectsList.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Title": "_Education.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Resume\\_Education.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Resume\\_Education.cshtml",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Resume\\_Education.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Resume\\_Education.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T04:30:01.649Z",
+              "WhenOpened": "2025-02-10T04:17:20.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_ProjectList.cshtml",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Project\\_ProjectList.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Project\\_ProjectList.cshtml",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Project\\_ProjectList.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Project\\_ProjectList.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAABYAAAAAAAAAA==",
+              "Title": "_Experience.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Resume\\_Experience.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Resume\\_Experience.cshtml",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Resume\\_Experience.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Resume\\_Experience.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB0AAAAaAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T04:30:00.213Z",
+              "WhenOpened": "2025-02-10T04:16:59.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Projects.cshtml",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Home\\Projects.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Projects.cshtml",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Home\\Projects.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\Projects.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Resume.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Resume\\Resume.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Resume\\Resume.cshtml",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Resume\\Resume.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Resume\\Resume.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T04:29:14.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Project.cshtml",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Project\\Project.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Project\\Project.cshtml",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Project\\Project.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Project\\Project.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T04:29:00.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProjectController.cs",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Controllers\\ProjectController.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Controllers\\ProjectController.cs",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Controllers\\ProjectController.cs",
-              "RelativeToolTip": "Portafolio\\Controllers\\ProjectController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:28:00.736Z",
+              "WhenOpened": "2025-02-10T04:13:24.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Contact\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Contact\\Contact.cshtml",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Contact\\Contact.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Contact\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T03:42:48.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T03:41:13.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Portafolio\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:16:48.23Z",
+              "WhenOpened": "2025-02-10T03:38:15.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResumeController.cs",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Controllers\\ResumeController.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Controllers\\ResumeController.cs",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Controllers\\ResumeController.cs",
+              "RelativeToolTip": "Portafolio\\Controllers\\ResumeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:40:07.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\Privacy.cshtml",
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Portafolio\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:39:47.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactViewModel.cs",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Models\\ContactViewModel.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\ContactViewModel.cs",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Models\\ContactViewModel.cs",
+              "RelativeToolTip": "Portafolio\\Models\\ContactViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:38:49.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Program.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\Program.cs",
+              "RelativeToolTip": "Portafolio\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T04:16:39.888Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:36:35.365Z",
               "EditorCaption": ""
             }
           ]
