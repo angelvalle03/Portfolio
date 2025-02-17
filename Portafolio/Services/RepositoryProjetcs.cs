@@ -16,7 +16,7 @@ namespace Portafolio.Services
                 Title= "Servicios Navales del Caribe",
                 Description = "Sitio web corporativo usando HTML, CSS y JavaScript",
                 Link = "https://serviciosnavalesdelcaribe.com/",
-                ImageURL = "/Images/images.png"
+                ImageURL = "/Images/Servicios-navales-Del-caribepage.png"
 
             },
             new Project
@@ -24,7 +24,7 @@ namespace Portafolio.Services
                 Title= "Portafolio personal",
                 Description = "Portafolio hecho con ASP .Net y Blazor",
                 Link = "https://amazon.com",
-                ImageURL = "/Images/images.png"
+                ImageURL = "/Images/Portfolio-page.png"
 
             }
             };

@@ -13,7 +13,7 @@ namespace Portafolio.Controllers
         }
 
         [HttpPost]
-        public IActionResult Contact(ContactViewModel ContactViewModel)
+        public IActionResult Contact(ContactViewModel contactViewModel)
         {
             return RedirectToAction("Thanks");
         }

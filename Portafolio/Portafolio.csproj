@@ -25,4 +25,9 @@
     <Folder Include="wwwroot\Images\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="brevo_csharp" Version="1.0.0" />
+    <PackageReference Include="SendWithBrevo" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>

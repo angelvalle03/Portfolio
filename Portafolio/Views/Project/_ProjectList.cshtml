@@ -17,12 +17,21 @@
 
                         <div class="card overflow-hidden shadow rounded-4 border-0 mb-5">
                             <div class="card-body p-0">
-                            <div class="d-flex align-items-center">
-                                <div class="p-5">
+                            <div class="d-flex align-items-center ">
+                                <div class="row">
+                                           <div class="col-5 align-items-center ">
+                                         <div class="p-5">
                                     <h2 class="fw-bolder">@project.Title</h2>
                                     <p>@project.Description</p>
+                                            <a href="@project.Link" target="_blank">@project.Title</a>
                                 </div>
-                                <img class="img-fluid" src="@project.ImageURL" alt="@project.Title" />
+                                    </div>
+                                    <div class="col-7 align-items-center ">
+                                           <img class="img-fluid img-thumbnail" src="@project.ImageURL" alt="@project.Title" />
+                                    </div>
+                                </div>
+                               
+                                
                             </div>
                         </div>
                     </div>                
@@ -36,7 +45,7 @@
 <section class="py-5 bg-gradient-primary-to-secondary text-white">
     <div class="container px-5 my-5">
         <div class="text-center">
-            <h2 class="display-4 fw-bolder mb-4">¿Quieres saber mas de mi?</h2>
+            <h2 class="display-4 fw-bolder mb-4">¿Quieres saber mas sobre mi?</h2>
             <a class="btn btn-outline-light btn-lg px-5 py-3 fs-6 fw-bolder" href="#">Contáctame</a>
         </div>
     </div>

@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\Images\\Image 2025-02-04 at 11.21-Photoroom.jpg"
     },
     {
+      "Id": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\wwwroot\\Images\\Portfolio-page.png",
+      "PackagePath": "staticwebassets\\Images\\Portfolio-page.png"
+    },
+    {
+      "Id": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\wwwroot\\Images\\Servicios-navales-Del-caribepage.png",
+      "PackagePath": "staticwebassets\\Images\\Servicios-navales-Del-caribepage.png"
+    },
+    {
       "Id": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\Portafolio\\Portafolio\\wwwroot\\Images\\download (1).png",
       "PackagePath": "staticwebassets\\Images\\download (1).png"
     },
