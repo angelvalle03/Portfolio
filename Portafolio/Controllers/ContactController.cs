@@ -1,11 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Portafolio.Models;
+using Portafolio.Services;
 using System.Diagnostics;
 
 namespace Portafolio.Controllers
 {
     public class ContactController : Controller
     {
+
         [HttpGet]
         public IActionResult Contact()
         {

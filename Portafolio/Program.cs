@@ -1,10 +1,12 @@
 using Portafolio.Services;
+using Resend;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddTransient<IRepositoryProjects, RepositoryProjetcs>();
+//builder.Services.AddTransient<ISserviceEmailR, ServiceEmailResend>();
 
 var app = builder.Build();
 

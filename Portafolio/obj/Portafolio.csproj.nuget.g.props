@@ -13,7 +13,7 @@
     <SourceRoot Include="C:\Users\Angel\.nuget\packages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Content Include="$(NuGetPackageRoot)sendwithbrevo\1.0.0\contentFiles\any\net6.0\logo.ico" Condition="Exists('$(NuGetPackageRoot)sendwithbrevo\1.0.0\contentFiles\any\net6.0\logo.ico')">
+    <Content Include="$(NuGetPackageRoot)sendwithbrevo\1.0.0\contentFiles\any\net7.0\logo.ico" Condition="Exists('$(NuGetPackageRoot)sendwithbrevo\1.0.0\contentFiles\any\net7.0\logo.ico')">
       <NuGetPackageId>SendWithBrevo</NuGetPackageId>
       <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
       <NuGetItemType>Content</NuGetItemType>

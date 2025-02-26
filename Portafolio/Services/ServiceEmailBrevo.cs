@@ -10,11 +10,11 @@ namespace Portafolio.Services
 
     }
 
-    public class ServiceEmailBrevo
+    public class ServiceEmailBrevo : ISserviceEmail
     {
         private readonly IConfiguration configuration;
-
-        public ServiceEmailBrevo(IConfiguration configuration) { 
+        public ServiceEmailBrevo(IConfiguration configuration)
+        {
 
             this.configuration = configuration;
         }
@@ -25,8 +25,9 @@ namespace Portafolio.Services
             var email = configuration.GetValue<string>("BREVO_FROM");
             var name = configuration.GetValue<string>("BREVO_NAME");
 
-            
+
 
         }
+
     }
 }

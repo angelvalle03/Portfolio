@@ -4027,7 +4027,7 @@ textarea.form-control-lg {
 
 .nav {
     --bs-nav-link-padding-x: 1rem;
-    --bs-nav-link-padding-y: 0.5rem;
+    --bs-nav-link-padding-y: 0.8rem;
     --bs-nav-link-font-weight:;
     --bs-nav-link-color: var(--bs-link-color);
     --bs-nav-link-hover-color: var(--bs-link-hover-color);
@@ -4047,6 +4047,7 @@ textarea.form-control-lg {
     color: var(--bs-nav-link-color);
     text-decoration: none;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+    font-size:1.2rem;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -4170,7 +4171,7 @@ textarea.form-control-lg {
     --bs-navbar-brand-font-size: 1.25rem;
     --bs-navbar-brand-color: rgba(0, 0, 0, 0.9);
     --bs-navbar-brand-hover-color: rgba(0, 0, 0, 0.9);
-    --bs-navbar-nav-link-padding-x: 0.5rem;
+    --bs-navbar-nav-link-padding-x: 0.9rem;
     --bs-navbar-toggler-padding-y: 0.25rem;
     --bs-navbar-toggler-padding-x: 0.75rem;
     --bs-navbar-toggler-font-size: 1.25rem;
@@ -4216,7 +4217,7 @@ textarea.form-control-lg {
 
 .navbar-nav {
     --bs-nav-link-padding-x: 0;
-    --bs-nav-link-padding-y: 0.5rem;
+    --bs-nav-link-padding-y: 0.8rem;
     --bs-nav-link-font-weight:;
     --bs-nav-link-color: var(--bs-navbar-color);
     --bs-nav-link-hover-color: var(--bs-navbar-hover-color);
